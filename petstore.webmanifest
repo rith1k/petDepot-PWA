@@ -3,7 +3,7 @@
     "icons": [{
         "src": "images/download.png",
         "sizes": "512x512",
-        "type": "imgaes/png"
+        "type": "images/png"
     }],
     "start_url": "index.html",
     "display": "fullscreen",
