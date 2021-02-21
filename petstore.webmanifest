@@ -1,0 +1,13 @@
+{
+    "name": "My Pet Store",
+    "icons": [{
+        "src": "images/download.png",
+        "sizes": "512x512",
+        "type": "imgaes/png"
+    }],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "rgb(129, 226, 243)"
+
+
+}
